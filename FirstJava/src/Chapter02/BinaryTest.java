@@ -1,7 +1,6 @@
 package Chapter02;
 
 public class BinaryTest {
-
 	public static void main(String[] args) {
 		int bNum = 0B1010;	//2진수
 		int dNum = 10;		//10진수
@@ -13,5 +12,4 @@ public class BinaryTest {
 		System.out.println(oNum);
 		System.out.println(hNum);
 	}
-
 }

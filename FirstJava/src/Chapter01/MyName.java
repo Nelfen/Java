@@ -13,17 +13,13 @@
 package Chapter01;
 
 public class MyName {
-
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {	
 		System.out.println("제 이름은 안순표입니다."); //화면출력 코드
 		System.out.println("직업은 학생입니다."); //둘째 줄의 출력 코드
-	}
-	
+	}	
 	/*
 	 * 첫 수업 시간에 작성한 코드입니다.
 	 * 어떤 언어를 학습할 때 최초로 화면 출력을
 	 * 배우게 됩니다.
 	 */
-
 }

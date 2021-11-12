@@ -1,7 +1,6 @@
 package Chapter02;
 
 public class CharEx {
-
 	public static void main(String[] args) {
 		char ch1 = 'A';
 		System.out.println(ch1);	//char 자료형은 1개의 문자만 입력 가능합니다.
@@ -19,5 +18,4 @@ public class CharEx {
 		
 		System.out.println('a' - 'A');
 	}
-
 }

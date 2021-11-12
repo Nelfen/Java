@@ -10,6 +10,7 @@ public class PromotionEx {
 		char charValue = '가';
 		intValue = charValue; //int <- char
 		System.out.println("가 : " + intValue);
+
 		
 		intValue = 200;
 		double doubleValue = intValue; //double <- int

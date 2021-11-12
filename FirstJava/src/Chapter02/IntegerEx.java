@@ -27,6 +27,7 @@ public class IntegerEx {
 		
 		int result;
 		result = sNum + bNum;
+		System.out.println(result);
 		
 		long lNum = 3_000_000_000L;
 		System.out.println(lNum);

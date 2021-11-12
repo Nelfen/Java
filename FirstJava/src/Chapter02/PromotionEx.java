@@ -22,8 +22,10 @@ public class PromotionEx {
 		
 		short shortValue = 100;
 		int res = byteValue + shortValue;
+		System.out.println(res);
 		
 		long longValue = 10000L;
 		long res2 = intValue + longValue;
+		System.out.println(res2);
 	}
 }

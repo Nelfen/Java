@@ -7,7 +7,7 @@ public class CastingEx {
 		char charValue = (char) intValue;
 		System.out.println(charValue);
 		
-		long longValue = 500;
+		long longValue = 500L;
 		intValue = (int) longValue;
 		System.out.println(intValue);
 		

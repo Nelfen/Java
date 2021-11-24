@@ -1,4 +1,4 @@
-package Chapter05;
+package Chapter06;
 
 public class Taxi {
 	int taxiNumber;

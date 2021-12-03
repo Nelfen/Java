@@ -3,7 +3,7 @@ package Chapter02;
 public class PromotionEx {
 	public static void main(String[] args) {
 		byte byteValue = 10;
-		int intValue = byteValue; //int <- byte
+		int intValue = byteValue;
 		System.out.println(intValue);
 //		byteValue = intValue;
 		
@@ -13,7 +13,7 @@ public class PromotionEx {
 
 		
 		intValue = 200;
-		double doubleValue = intValue; //double <- int
+		double doubleValue = intValue;
 		System.out.println(doubleValue);
 //		intValue = doubleValue;
 		

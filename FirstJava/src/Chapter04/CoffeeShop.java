@@ -7,7 +7,7 @@ public class CoffeeShop {
 		System.out.println("메뉴를 주문해 주세요.");
 		Scanner sc = new Scanner(System.in);
 		String menu = "";
-		System.out.println("A: 아메리카노, M: 카페모카, C: 카라멜마끼아또, T: 오늘의 커피");
+		System.out.println("A: 아메리카노, M: 카페모카, C: 바닐라라떼, T: 오늘의 커피");
 		System.out.print("> ");
 		menu = sc.next();
 		
@@ -20,7 +20,7 @@ public class CoffeeShop {
 //			System.out.println("카페모카를 주문하셨습니다.");
 //			break;
 //		case "C" :
-//			System.out.println("카라멜마끼아또를 주문하셨습니다.");
+//			System.out.println("바닐라라떼를 주문하셨습니다.");
 //			break;
 //		case "T" :
 //			System.out.println("오늘의 커피를 주문하셨습니다.");
@@ -40,7 +40,7 @@ public class CoffeeShop {
 			break;
 		case "C" :
 		case "c" :
-			System.out.println("카라멜마끼아또를 주문하셨습니다.");
+			System.out.println("바닐라라떼를 주문하셨습니다.");
 			break;
 		case "T" :
 		case "t" :

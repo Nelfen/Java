@@ -25,7 +25,6 @@ public class DiceEx {
 }
 /*
  * Math.random()의 범위는 0보다 크거나 같고 1보다 작은 수
- * 
  * 0 <= Math.random() < 1
  * 0 * 6 + 1 <= Math.random() * 6 + 1 < 1 * 6 + 1
  */

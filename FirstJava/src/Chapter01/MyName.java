@@ -15,7 +15,7 @@ package Chapter01;
 public class MyName {
 	public static void main(String[] args) {	
 		System.out.println("제 이름은 안순표입니다."); //화면출력 코드
-		System.out.println("직업은 프로그래머입니다."); //둘째 줄의 출력 코드
+		System.out.println("직업은 개발자입니다."); //둘째 줄의 출력 코드
 	}	
 	/*
 	 * 첫 수업 시간에 작성한 코드입니다.

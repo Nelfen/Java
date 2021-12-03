@@ -10,7 +10,6 @@ public class PromotionEx {
 		iVal = cVal;
 		System.out.println("가 : " + iVal);
 
-		
 		iVal = 200;
 		double dVal = iVal;
 		System.out.println(dVal);

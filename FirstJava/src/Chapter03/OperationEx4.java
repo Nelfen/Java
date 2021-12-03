@@ -3,8 +3,8 @@ package Chapter03;
 public class OperationEx4 {
 
 	public static void main(String[] args) {
-		int fatherAge = 45;  //Cammel기법 사용
-		int motherAge = 47;  //Cammel기법 사용
+		int fatherAge = 45;
+		int motherAge = 47;
 		
 		char ch;
 		ch = (fatherAge > motherAge) ? 'T' : 'F';

@@ -9,7 +9,7 @@ public class ForEx {
 			sum += num++;
 		}
 		System.out.println(sum);
-
+//
 		int i = 0;
 		int res = 0;
 		for(i = 1; i <= 10; i = i * 2) {

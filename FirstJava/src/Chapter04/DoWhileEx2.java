@@ -10,7 +10,7 @@ public class DoWhileEx2 {
 		
 		Scanner scan = new Scanner(System.in);
 		String inputString;
-		
+//		
 		do {
 			System.out.print("> ");
 			inputString = scan.nextLine();

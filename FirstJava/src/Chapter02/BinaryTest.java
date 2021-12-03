@@ -11,6 +11,5 @@ public class BinaryTest {
 		System.out.println(dNum);
 		System.out.println(oNum);
 		System.out.println(hNum);
-		System.out.println(oNum);
 	}
 }

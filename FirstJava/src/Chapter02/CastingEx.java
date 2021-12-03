@@ -13,7 +13,7 @@ public class CastingEx {
 		
 		double dVal = 3.14;
 		intValue = (int) dVal;
-		System.out.println(intValue);
+		System.out.println(intValue);	//소수점 뒷자리 손실
 		
 		int iNum = 103029770;
 		byte bNum = (byte) iNum;

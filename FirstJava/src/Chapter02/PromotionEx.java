@@ -2,30 +2,28 @@ package Chapter02;
 
 public class PromotionEx {
 	public static void main(String[] args) {
-		byte byteValue = 10;
-		int intValue = byteValue;
-		System.out.println(intValue);
-//		byteValue = intValue;
+		byte bVal = 10;
+		int iVal = bVal;
+		System.out.println(iVal);
 		
-		char charValue = '가';
-		intValue = charValue; //int <- char
-		System.out.println("가 : " + intValue);
+		char cVal = '가';
+		iVal = cVal;
+		System.out.println("가 : " + iVal);
 
 		
-		intValue = 200;
-		double doubleValue = intValue;
-		System.out.println(doubleValue);
-//		intValue = doubleValue;
-		
-		int result = intValue + byteValue;
+		iVal = 200;
+		double dVal = iVal;
+		System.out.println(dVal);
+
+		int result = iVal + bVal;
 		System.out.println(result);
 		
-		short shortValue = 100;
-		int res = byteValue + shortValue;
+		short sVal = 100;
+		int res = bVal + sVal;
 		System.out.println(res);
 		
-		long longValue = 10000L;
-		long res2 = intValue + longValue;
+		long lVal = 10000L;
+		long res2 = iVal + lVal;
 		System.out.println(res2);
 	}
 }

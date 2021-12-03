@@ -7,5 +7,6 @@ public class DoubleEx1 {
 		
 		System.out.println(dNum);
 		System.out.println(fNum);
+		System.out.println("");
 	}
 }

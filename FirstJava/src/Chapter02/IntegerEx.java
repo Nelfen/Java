@@ -11,7 +11,6 @@ public class IntegerEx {
 		System.out.println(sNum);
 		System.out.println(sNum2);
 		System.out.println(iNum);
-//		bNum = 200; byte자료형은 -128 ~ 127까지 사용 가능합니다.
 		/*
 		 * 주석처리 단축키
 		 * 컨트롤 + 쉬프트 + C

@@ -13,7 +13,7 @@ public class AssignmentEx {
 		result /= 5;
 		System.out.println("result = " + result);
 		result %= 3;
-
+		System.out.println("result = " + result);
 	}
 
 }

@@ -10,7 +10,7 @@ public class BreakEx {
 			break;
 		case 2:
 			System.out.println("num은 2입니다.");
-			break; //switch문을 파괴하는 break입니다.
+			break;
 		default:
 			System.out.println("num은 1과 2가 아닌 다른 수입니다.");
 		}
@@ -19,7 +19,7 @@ public class BreakEx {
 			System.out.println("반복중.." + num);
 			num++;
 			if(num > 10) {
-				break; //while문을 파괴하는 break입니다.
+				break;
 			}
 		}
 		

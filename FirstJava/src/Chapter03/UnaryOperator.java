@@ -7,7 +7,7 @@ public class UnaryOperator {
 		
 		int c = 100;
 		
-		System.out.println("a++ = " + (a++) + ", ++b = " + (++b)); //헷갈린다면 괄호를 써라.
+		System.out.println("a++ = " + a++ + ", ++b = " + ++b);
 		System.out.println("a = " + a + ", b = " + b);
 		
 		c++; //100

@@ -14,7 +14,7 @@ public class OperationEx4 {
 		int num = 10;
 		boolean isEven;
 		isEven = num % 2 == 0 ? true : false;
-		System.out.println("짝수인가요? " + isEven);
+		System.out.println("짝수인가요? " + (isEven ? "짝수" : "홀수"));
 	}
 
 }

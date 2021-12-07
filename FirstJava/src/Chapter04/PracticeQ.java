@@ -38,7 +38,7 @@ public class PracticeQ {
 //			System.out.println();
 //		}
 		
-		int lineCount = 9;  //다른 홀수 값을 넣어보세요
+		int lineCount = 9;
 		int spaceCount = lineCount/2 +1;
 		int starCount = 1;
 		

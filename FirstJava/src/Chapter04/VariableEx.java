@@ -2,7 +2,7 @@ package Chapter04;
 
 public class VariableEx {
 	public static void main(String[] args) {
-		System.out.println("영남분식입니다.");
+		System.out.println("분식집입니다.");
 		System.out.println("원하시는 메뉴를 선택해주세요");
 		int dduck = 3000; //떡볶이 3000원
 		int sundae = 3000; //순대 3000원

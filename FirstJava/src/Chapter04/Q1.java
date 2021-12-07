@@ -38,7 +38,7 @@ public class Q1 {
 			System.out.println(num1 / num2 + " 나머지 " + num1 % num2);
 			break;
 		default:
-			System.out.println("오류입니다.");
+			System.out.println("오류");
 		}
 		sc.close();
 	}

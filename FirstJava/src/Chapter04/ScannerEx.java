@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ScannerEx {
 	public static void main(String[] args) {
 		int iNum;
-		Scanner sc = new Scanner(System.in); //스캐너 생성 코드 - 변경 가능한 것은 변수명 뿐
+		Scanner sc = new Scanner(System.in);
 		
 //		System.out.println("정수를 입력해 주세요: ");
 //		System.out.print("> ");

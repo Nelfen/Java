@@ -5,7 +5,7 @@ public class SwitchEx {
 	public static void main(String[] args) {
 		int ranking = 1;
 		char medalColor;
-		
+		//
 		switch(ranking) {
 		case 1 : medalColor = 'G';
 		 break;

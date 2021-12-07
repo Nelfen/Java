@@ -20,7 +20,7 @@ public class SwitchEx2 {
 		String pos = "부장";
 		switch(pos) {
 		case "부장" :
-			System.out.println("부장의 월급은 400만원입니다.");
+			System.out.println("부장의 월급은 500만원입니다.");
 			break;
 		case "과장" :
 			System.out.println("과장의 월급은 300만원입니다.");

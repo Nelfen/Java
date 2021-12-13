@@ -19,7 +19,7 @@ public class CoffeeShop {
 //		case "M" :
 //			System.out.println("카페모카를 주문하셨습니다.");
 //			break;
-//		case "C" :
+//		case "B" :
 //			System.out.println("바닐라라떼를 주문하셨습니다.");
 //			break;
 //		case "T" :
@@ -38,8 +38,8 @@ public class CoffeeShop {
 		case "m" :
 			System.out.println("카페모카를 주문하셨습니다.");
 			break;
-		case "C" :
-		case "c" :
+		case "B" :
+		case "b" :
 			System.out.println("바닐라라떼를 주문하셨습니다.");
 			break;
 		case "T" :

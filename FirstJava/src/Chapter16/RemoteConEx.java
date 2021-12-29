@@ -1,6 +1,4 @@
-package RemoteConEx;
-
-import Chapter16.RemoteControl;
+package Chapter16;
 
 public class RemoteConEx {
 

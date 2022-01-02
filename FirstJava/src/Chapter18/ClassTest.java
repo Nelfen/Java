@@ -9,7 +9,7 @@ public class ClassTest {
 		Class pClass2 = Person.class;
 		System.out.println(pClass2.getName());
 		
-		Class pClass3 = Class.forName("chapter11.Person");
+		Class pClass3 = Class.forName("chapter18.Person");
 		System.out.println(pClass3.getName());
 	}
 }

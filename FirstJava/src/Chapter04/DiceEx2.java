@@ -2,7 +2,7 @@ package Chapter04;
 
 public class DiceEx2 {
 	public static void main(String[] args) {
-		int dice = (int)(Math.random() * 6) + 1;
+		int dice = (int)((Math.random() * 6) + 1);
 		System.out.println(dice);
 		if(dice <= 3) {
 			switch(dice) {

@@ -15,7 +15,7 @@ public class DoWhileEx2 {
 			System.out.print("> ");
 			inputString = scan.nextLine();
 			System.out.println(inputString);
-		} while (!inputString.equals("q"));
+		} while (!inputString.equals("q"));	//입력 받은 값이 q가 아닐경우 계속 반복한다
 			System.out.println();
 			System.out.println("프로그램 종료");
 			scan.close();
